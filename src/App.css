@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(157deg, rgba(17,5,125,1) 0%, rgba(86,3,94,1) 56%, rgba(51,0,33,1) 100%);    /* background: linear-gradient(red , blue); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    height: 100vh;
+}
